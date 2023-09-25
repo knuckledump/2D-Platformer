@@ -1,0 +1,10 @@
+b BLOCK
+d DECORATION (bot/top)
+i INSIDE
+p PLATEFORM (left/right/mid)
+1 BUSH
+2 BIG BUSH
+3 TREE
+4 BIG TREE
+5 ROCK
+T TURRET
