@@ -6,3 +6,5 @@ Requirements: Pygame
 ZQSD to move, Space to shoot, Mouse to aim
 
 Can change Map Layout in config file
+
+![Alt text](./images/demo.png)
